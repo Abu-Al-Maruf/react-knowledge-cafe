@@ -1,0 +1,52 @@
+[
+  {
+    "id": "aBcDeFg",
+    "cover": "https://i.ibb.co/10gHyXK/1.jpg",
+    "title": "The Art of Web Development",
+    "author": "Sarah Johnson",
+    "author_img": "https://i.ibb.co/ysrYggT/boy1.png",
+    "posted_date": "2023-09-13",
+    "reading_time": 10,
+    "hashtags": ["programming", "webdev", "javascript"]
+  },
+  {
+    "id": "hIjKlMn",
+    "cover": "https://i.ibb.co/Qcgygmv/2.png",
+    "title": "Exploring the Universe: A Journey Through the Cosmos",
+    "author": "David Anderson",
+    "author_img": "https://i.ibb.co/5hHCmBK/boy2.jpg",
+    "posted_date": "2023-09-12",
+    "reading_time": 15,
+    "hashtags": ["space", "science", "astronomy"]
+  },
+  {
+    "id": "oPqRsT",
+    "cover": "https://i.ibb.co/DMNhtW0/3.png",
+    "title": "Gourmet Delights: Culinary Adventures with Isabella Martinez",
+    "author": "Isabella Martinez",
+    "author_img": "https://i.ibb.co/zXbjJ77/girl1.jpg",
+    "posted_date": "2023-09-11",
+    "reading_time": 20,
+    "hashtags": ["cooking", "recipes", "food"]
+  },
+  {
+    "id": "uVwXyZ",
+    "cover": "https://i.ibb.co/FhkLSVs/4.jpg",
+    "title": "Nature's Wonders: Exploring National Parks",
+    "author": "Michael Turner",
+    "author_img": "https://i.ibb.co/TcMY2C3/girl2.jpg",
+    "posted_date": "2023-09-10",
+    "reading_time": 12,
+    "hashtags": ["travel", "outdoors", "nature"]
+  },
+  {
+    "id": "aBcDef",
+    "cover": "https://i.ibb.co/gMGLHn7/profile.png",
+    "title": "Capturing Beauty Through the Lens: Photography and Creativity",
+    "author": "Emily White",
+    "author_img": "https://i.ibb.co/gMGLHn7/profile.png",
+    "posted_date": "2023-09-09",
+    "reading_time": 18,
+    "hashtags": ["photography", "art", "creativity"]
+  }
+]
